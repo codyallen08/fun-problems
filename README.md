@@ -1,2 +1,2 @@
 # fun-problems
-Collection of fun mathematical problems and solutions
+Collection of fun mathematical problems and computational solutions
